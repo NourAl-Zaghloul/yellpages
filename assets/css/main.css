@@ -1,0 +1,25 @@
+html {
+    height: 100%
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    perspective: 500px;
+    position: relative;
+    background-color: #ffffff;
+    overflow: hidden;
+    margin: 12px;
+    padding: 6px;
+}
+
+.Information {
+    background: #eeefff;
+
+}
+
+.Reviews {
+    background-color: #fffeee;
+}
