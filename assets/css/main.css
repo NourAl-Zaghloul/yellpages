@@ -15,11 +15,14 @@ body {
     padding: 6px;
 }
 
-.Information {
-    background: #eeefff;
-
+#header {
+    
 }
 
-.Reviews {
-    background-color: #fffeee;
+#Info {
+    
+}
+
+#Review {
+    background-color: aqua;
 }
